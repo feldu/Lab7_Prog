@@ -1,0 +1,13 @@
+add_if_min
+myNewMin0tavr
+10
+20
+1
+3
+
+MANREAPER
+132
+311
+show
+info
+execute_script a.txt
